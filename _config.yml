@@ -1,20 +1,14 @@
-typography_spectrum: 0.3308780344668776
-content_rating:
-  adult: false
+layout_spectrum: 0.7907933027017862
+typography_spectrum: 0.9781334945000708
 color:
-  brandStrength: 0.6196189287584275
-  lightness: 0.725094118155539
-  saturation: 0.40608365810476243
-  rhythmicContrast: 0.8607059577479959
+  brandStrength: 0.7012530597858131
+  lightness: 0.7735758959315717
+  saturation: 0.747099258005619
+  rhythmicContrast: 0.16566805355250835
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.018153049517422915
-author:
-  name: Kyle
-logo: null
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: Life Gems
-title: ''
