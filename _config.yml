@@ -1,14 +1,20 @@
-layout_spectrum: 0.9697076112497598
-typography_spectrum: 0.7254819637164474
+typography_spectrum: 0.3308780344668776
+content_rating:
+  adult: false
 color:
-  brandStrength: 0.6554215222131461
-  lightness: 0.2557190670631826
-  saturation: 0.573688879609108
-  rhythmicContrast: 0.605350760743022
+  brandStrength: 0.6196189287584275
+  lightness: 0.725094118155539
+  saturation: 0.40608365810476243
+  rhythmicContrast: 0.8607059577479959
   brandColors:
-    - '#105B63'
-    - '#FFFAD5'
-    - '#FFD34E'
-    - '#DB9E36'
-    - '#BD4932'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+layout_spectrum: 0.018153049517422915
+author:
+  name: Kyle
+logo: null
 name: Life Gems
+title: Life's many treasures
