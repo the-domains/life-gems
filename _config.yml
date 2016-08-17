@@ -1,14 +1,14 @@
-layout_spectrum: 0.7907933027017862
-typography_spectrum: 0.9781334945000708
+layout_spectrum: 0.9697076112497598
+typography_spectrum: 0.7254819637164474
 color:
-  brandStrength: 0.7012530597858131
-  lightness: 0.7735758959315717
-  saturation: 0.747099258005619
-  rhythmicContrast: 0.16566805355250835
+  brandStrength: 0.6554215222131461
+  lightness: 0.2557190670631826
+  saturation: 0.573688879609108
+  rhythmicContrast: 0.605350760743022
   brandColors:
-    - '#00261C'
-    - '#044D29'
-    - '#168039'
-    - '#45BF55'
-    - '#96ED89'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Life Gems
